@@ -18,4 +18,4 @@ Read the full license in the 'LICENSE' file.
 You can contribute to impulse: Enhanced by making a pull request.
 
 ## Copyright
-impulse was originally developed by vingard @ 2i.games. impulse: Enhanced is a refresh of the said framework, developed under vanilla Studios. The version this framework is built on is **1.74** (latest public release).
+impulse was originally developed by vingard @ 2i.games. impulse: Enhanced is a refresh of the said framework, developed under vanilla Studios.
