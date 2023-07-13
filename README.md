@@ -2,7 +2,7 @@
 © vanilla Studios. All rights reserved. All trademarks are property of their respective owners in the UK and other countries.
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/vanillastudios-gmod/impulseenhanced/main/logo.png" alt="impulse: Enhanced" />
+	<img src="https://raw.githubusercontent.com/vanillastudios-gmod/impulseenhanced-media/main/impulseSkeletonSchema.png" alt="impulse: Enhanced" />
 </p>
 
 # Welcome to impulse: Enhanced - Skeleton Schema
