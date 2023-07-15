@@ -11,6 +11,10 @@ This repository contains basic files to use impulse: Enhanced framework. This re
 ## Working with impulse
 [Check out the docs](https://avxsb.github.io/impulseenhanced). If you want to just get started read the ['Installing impulse: Enhanced' guide]([https://vingard.github.io/impulsedocs/topics/10-devsetup.md.htm](https://avxsb.github.io/impulseenchanced)l). Most of the framework features are or will be documented, so it's easy for you to get started.
 
+## Skeleton Schema
+This schema demonstrates basic functionality, used as a base to build different schema types.
+Required content: https://steamcommunity.com/sharedfiles/filedetails/?id=1689357640
+
 ## Licensing
 Read the full license in the 'LICENSE' file.
 
