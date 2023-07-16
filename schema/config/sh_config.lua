@@ -95,6 +95,7 @@ impulse.Config.AutoModCooldown = 130
 impulse.Config.AutoModMaxRisk = 15
 
 impulse.Config.CommunityURL = ""
+impulse.Config.IACGuidelinesURL = ""
 impulse.Config.PanelURL = ""
 impulse.Config.DonateURL = ""
 impulse.Config.DiscordURL = ""
@@ -102,6 +103,7 @@ impulse.Config.SupportURL = "" -- this can just be the forum url
 impulse.Config.DiscordRelayURL = "" -- not required
 impulse.Config.RulesURL = ""
 impulse.Config.TutorialURL = ""
+
 
 -- Optional, if you don't have it delete the line below. Used for newsfeed. Requires: https://wordpress.org/plugins/better-rest-api-featured-images/
  impulse.Config.WordPressURL = ""
