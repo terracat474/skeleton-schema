@@ -200,4 +200,13 @@ impulse.Config.DefaultSkinBlacklist = {
 	["models/player/impulse_zelpa/male_02.mdl"] = {14, 22, 6} -- bloody eye skins banned
 }
 
-
+impulse.Config.LootPools = {
+    ["example"] = {
+        Items = {
+            ["exampleitem1"] = {Rarity = 600},
+            ["exampleitem2"] = {Rarity = 600},
+        },
+        MaxItems = 3,
+        MinItems = 1
+    }
+}
