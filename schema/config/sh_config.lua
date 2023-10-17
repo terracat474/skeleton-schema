@@ -207,6 +207,8 @@ impulse.Config.LootPools = {
             ["exampleitem2"] = {Rarity = 600},
         },
         MaxItems = 3,
-        MinItems = 1
+        MinItems = 1,
+		MaxWait = 600,
+		MinWait = 300
     }
 }
