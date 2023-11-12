@@ -212,3 +212,9 @@ impulse.Config.LootPools = {
 		MinWait = 300
     }
 }
+
+rpg.Config.RarityGen = math.Random(1,2)
+rpg.Config.RarityColor = {
+	1 = (255,255,255),
+	2 = (0,255,0)
+}
