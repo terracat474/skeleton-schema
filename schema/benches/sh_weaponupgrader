@@ -1,0 +1,10 @@
+local BENCH = {}
+
+BENCH.Class = "upgrader"
+BENCH.Name = "Gunsmith bench"
+BENCH.Desc = "Can be used to make your weapons better."
+BENCH.Model = "models/props_combine/breendesk.mdl"
+BENCH.Illegal = true
+BENCH.NotIllegalFor = {TEAM_COPS}
+
+impulse.RegisterBench(BENCH)
