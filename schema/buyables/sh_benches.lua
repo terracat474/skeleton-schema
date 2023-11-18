@@ -10,3 +10,16 @@ impulse.Business.Define("General Workbench", {
     	return true
     end
 })
+
+impulse.Business.Define("Gunsmith bench", {
+	bench = "upgrader",
+	model = "models/props_combine/breendesk.mdl",
+    refund = true,
+	price = 100,
+    removeOnTeamSwitch = true,
+    customCheck = function(ply)
+        -- you can write any code here to check if they should be allowed to spawn it, return false for no, true for yes
+
+    	return true
+    end
+})
